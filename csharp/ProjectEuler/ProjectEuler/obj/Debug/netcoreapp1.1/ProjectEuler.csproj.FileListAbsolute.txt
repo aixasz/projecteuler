@@ -1,0 +1,12 @@
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp1.1\ProjectEuler.deps.json
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp1.1\ProjectEuler.runtimeconfig.json
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp1.1\ProjectEuler.runtimeconfig.dev.json
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp1.1\ProjectEuler.dll
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp1.1\ProjectEuler.csprojResolveAssemblyReference.cache
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp1.1\ProjectEuler.AssemblyInfo.cs
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp1.1\ProjectEuler.pdb
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp1.1\ProjectEuler.dll
+D:\eulerproject\csharp\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp1.1\ProjectEuler.pdb
